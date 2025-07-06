@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 737cda8d4da9477182e0f5bf41b512f9, type: 3}
+  m_Name: PictureConfig
+  m_EditorClassIdentifier: 
+  _pictureDefs:
+  - _title: Dragon
+    _previewSprite: {fileID: 21300000, guid: 632db5acbe8ecdc4a85dac27bb3f56ae, type: 3}
+    _fullSprite: {fileID: 21300000, guid: 632db5acbe8ecdc4a85dac27bb3f56ae, type: 3}
+    _tags:
+    - fantasy
+    _priceGold: 0
+  - _title: Planet
+    _previewSprite: {fileID: 21300000, guid: 87de115540c142541a4137b622bf8056, type: 3}
+    _fullSprite: {fileID: 21300000, guid: 87de115540c142541a4137b622bf8056, type: 3}
+    _tags:
+    - space
+    _priceGold: 0
+  - _title: Island
+    _previewSprite: {fileID: 21300000, guid: 5fa3acefac252d04f986285bebbfcc87, type: 3}
+    _fullSprite: {fileID: 21300000, guid: 5fa3acefac252d04f986285bebbfcc87, type: 3}
+    _tags:
+    - water
+    - green
+    _priceGold: 200
+  - _title: Lock
+    _previewSprite: {fileID: 21300000, guid: c3b5614735ad7974984d043b8bbbfbaf, type: 3}
+    _fullSprite: {fileID: 21300000, guid: c3b5614735ad7974984d043b8bbbfbaf, type: 3}
+    _tags: []
+    _priceGold: 500
+  - _title: Samurai
+    _previewSprite: {fileID: 21300000, guid: 0b2f3eb46129b4b4c84d2eef8d5b9e6d, type: 3}
+    _fullSprite: {fileID: 21300000, guid: 0b2f3eb46129b4b4c84d2eef8d5b9e6d, type: 3}
+    _tags:
+    - anime
+    _priceGold: 1000
+  - _title: Robot
+    _previewSprite: {fileID: 21300000, guid: f0ac809260af89f4da085d7df1020728, type: 3}
+    _fullSprite: {fileID: 21300000, guid: f0ac809260af89f4da085d7df1020728, type: 3}
+    _tags: []
+    _priceGold: 9999

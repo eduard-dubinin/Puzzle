@@ -1,0 +1,20 @@
+{
+    "name": "Project.Meta.Scene",
+    "rootNamespace": "",
+    "references": [
+        "Zenject",
+        "UniTask",
+        "Project.Utility",
+        "Project.Window.Abstraction",
+        "Project.Meta.UI.VIew"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

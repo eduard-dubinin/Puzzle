@@ -1,0 +1,22 @@
+{
+    "name": "Project.Meta.UseCase",
+    "rootNamespace": "",
+    "references": [
+        "Zenject",
+        "UniTask",
+        "Project.Utility",
+        "Project.Application.Domain.Abstraction",
+        "Project.Application.Config.Abstraction",
+        "Project.Window.Abstraction",
+        "Project.Meta.UI.VIew"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

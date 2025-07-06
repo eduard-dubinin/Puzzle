@@ -1,0 +1,20 @@
+{
+    "name": "Project.Application.Network.Implementation",
+    "rootNamespace": "",
+    "references": [
+        "Zenject",
+        "UniTask",
+        "Project.Application.Network.Abstraction",
+        "Project.Application.Config.Abstraction",
+        "Project.Application.Domain.Abstraction"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

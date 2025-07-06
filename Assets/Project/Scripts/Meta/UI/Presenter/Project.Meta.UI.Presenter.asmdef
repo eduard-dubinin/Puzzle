@@ -1,0 +1,25 @@
+{
+    "name": "Project.Meta.UI.Presenter",
+    "rootNamespace": "",
+    "references": [
+        "Zenject",
+        "UniTask",
+        "UniTask.Linq",
+        "UniTask.TextMeshPro",
+        "Unity.TextMeshPro",
+        "Project.Meta.UI.VIew",
+        "Project.Application.Config.Abstraction",
+        "Project.Application.Domain.Abstraction",
+        "Project.Window.Abstraction",
+        "Project.Application.Network.Abstraction"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Project.Application.Network.Abstraction",
+    "rootNamespace": "",
+    "references": [
+        "UniTask",
+        "Project.Application.Config.Abstraction"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

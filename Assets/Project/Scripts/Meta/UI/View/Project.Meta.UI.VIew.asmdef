@@ -1,0 +1,19 @@
+{
+    "name": "Project.Meta.UI.VIew",
+    "rootNamespace": "",
+    "references": [
+        "UniTask",
+        "UniTask.TextMeshPro",
+        "Unity.TextMeshPro",
+        "Project.Window.Abstraction"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

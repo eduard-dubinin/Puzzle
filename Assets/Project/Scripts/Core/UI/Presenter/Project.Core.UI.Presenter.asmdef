@@ -1,0 +1,22 @@
+{
+    "name": "Project.Core.UI.Presenter",
+    "rootNamespace": "",
+    "references": [
+        "Zenject",
+        "UniTask",
+        "Project.Core.UI.View",
+        "Project.Application.Domain.Abstraction",
+        "Project.Application.Config.Abstraction",
+        "Project.Window.Abstraction",
+        "Project.Application.Network.Abstraction"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

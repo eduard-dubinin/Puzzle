@@ -1,0 +1,17 @@
+{
+    "name": "Project.Application.Config.Abstraction",
+    "rootNamespace": "",
+    "references": [
+        "Zenject",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
